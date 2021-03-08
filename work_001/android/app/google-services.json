@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052332944105",
+    "firebase_url": "https://fyp-tcmt.firebaseio.com",
+    "project_id": "fyp-tcmt",
+    "storage_bucket": "fyp-tcmt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052332944105:android:92afff2d943eeea1c29e78",
+        "android_client_info": {
+          "package_name": "com.example.work_001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052332944105-mfff6ss83l07fl7ups881pd8f12u4bt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZ_5kkhNRJl14X1RbugGATeJ8XkihL6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052332944105-mfff6ss83l07fl7ups881pd8f12u4bt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1052332944105-vfbqjohb19h9cogvihqa66csgbjvkn39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tekartik.sqfliteExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
