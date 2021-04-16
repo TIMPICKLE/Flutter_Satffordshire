@@ -1,8 +1,8 @@
 # Flutter_Satffordshire
 
-Dual platform application (android& IOS) to teach Chinese Medicine knowledge
+## Dual platform application (android& IOS) to teach Chinese Medicine knowledge
 
-NAME: NIAHO DONG
+### NAME: NIAHO DONG
 
  <img width="638" alt="截屏2021-04-16 14 53 30" src="https://user-images.githubusercontent.com/79064198/115034525-83ae9480-9ec3-11eb-9a03-6e0fadeaf44b.png">
  
