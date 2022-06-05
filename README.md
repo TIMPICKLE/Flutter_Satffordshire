@@ -31,6 +31,7 @@ c) Design
 • Design reasonable database, from a practical point of view, consider the basic properties of
 the object.
 • Design a reasonable UI for mobile applications, Design a reasonable interactive experience.
+
 d) Implementation and testing
 • Test all aspects of the system and evaluate the project with a balance between technology,
 functionality, and user standards
